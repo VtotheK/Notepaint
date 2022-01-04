@@ -1,6 +1,6 @@
 # Notepaint
 
-If notepad and paint were relatives and they would have a kid. 
+If notepad and paint were relatives and they would have a kid. Strange school project.
 
 ![High quality image](docs/Highquality.png)
 
@@ -9,6 +9,7 @@ Have you always wanted the text editing capabilities of notepad and the image ed
 ## Highlights
 * Many colors to choose from.
 * Two paint tips = high quality
+* Different tip sizes
 * Highlighter
 * Custom file extension .npt. Saves text and stroke data into one file. Identified by `0xF3F2F1` header. High quality.
 * Calculator to add some number to your text files. Useful for... TODO figure some reason here
