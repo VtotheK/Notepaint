@@ -1,6 +1,6 @@
 # Notepaint
 
-If notepad and paint were relatives and they would have a kid. Strange school project.
+Strange school project.
 
 ![High quality image](docs/Highquality.png)
 
