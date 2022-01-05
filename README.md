@@ -11,7 +11,7 @@ Have you always wanted the text editing capabilities of notepad and the image ed
 * Two paint tips = high quality
 * Different tip sizes
 * Highlighter
-* Custom file extension .npt. Saves text and stroke data into one file. Identified by `0xF3F2F1` header. High quality.
+* Custom file extension .npt. Saves text and stroke data into one file. Identified by `0xF1F2F3` header. High quality.
 * Calculator to add some numbers to your text files. Useful for... TODO figure some reason here
 * Menus for english and swedish because why not
 * Change font size, font color, undo, redo
